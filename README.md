@@ -1,2 +1,2 @@
 # DPO_Gravity_Forms
-This is the DPO Group plugin for Gravity Forms.
+Please note this page is archived. Please navigate [here](https://github.com/DPO-Group/DPO_Gravity_Forms) for the actively maintained repository.
